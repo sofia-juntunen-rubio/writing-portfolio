@@ -15,4 +15,5 @@ Kirjoitustyylissäni korostuvat selkeys, rakenteellinen hallinta ja kontekstuali
   (Oma artikkelini on julkaisun ensimmäinen teksti sivulla 12.)
 
 ## Huomio
-Yksi teksteistä on alun perin julkaistu Sidelines-nimisessä Isossa-Britanniassa toimineessa startup-julkaisussa, joka ei ole enää aktiivinen. Alkuperäisten linkkien ja valokuvien puuttuessa teksti on koottu tähän portfolioon PDF-muodossa.
+Yksi teksteistä on alun perin julkaistu Sidelines-nimisessä Isossa-Britanniassa toimineessa startup-julkaisussa, joka ei ole enää aktiivinen. Alkuperäisten linkkien ja valokuvien puuttuessa teksti on koottu tähän portfolioon PDF-muodossa. Sidelines-julkaisun toiminnasta ja julkaisuista on nähtävissä jälkiä myös sosiaalisessa mediassa. Julkaisun Instagram-tililtä löytyy linkki Linktreeen, jonka kautta on mahdollista tutustua aiempiin Instagram- ja TikTok-julkaisuihin sekä toimituksen toimintaan. 
+- Sidelines (Instagram): https://www.instagram.com/sidelineswf 
