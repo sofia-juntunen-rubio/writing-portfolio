@@ -5,7 +5,7 @@ Tämä portfolio sisältää valikoituja kirjoituksiani, jotka painottuvat rapor
 Kirjoitustyylissäni korostuvat selkeys, rakenteellinen hallinta ja kontekstualisointi. Taustani englannin kielen asiantuntijaopinnoissa ja journalismin opinnoissa tukee huolellista ja lukijaa palvelevaa työotetta.
 
 ## Otteluraportointi
-- [Arsenal vs Manchester City – WSL-otteluraportti, Sidelines (PDF)](./match-reports/Sidelines_Match_Report_Manchester_City_vs_Arsenal.pdf)
+- [Arsenal vs Manchester City – WSL-otteluraportti, Sidelines (PDF)][Sidelines Match Report -Manchester City vs Arsenal.pdf](https://github.com/user-attachments/files/24497117/Sidelines.Match.Report.-Manchester.City.vs.Arsenal.pdf)
 
 ## Feature-journalismi
 - [KiVi-turnaus – feature- ja ottelukattaus (julkaistu, sivu 4)](https://online.fliphtml5.com/fqxba/vgvr/#p=4)  
