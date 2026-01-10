@@ -14,7 +14,7 @@ Kirjoitustyylissäni korostuvat selkeys, rakenteellinen hallinta ja kontekstuali
 - [An Introvert’s Journal – NMES City Orienteering (narratiivinen feature, julkaistu, sivu 12)](https://online.fliphtml5.com/fqxba/fbzx/#google_vignette)  
   (Oma artikkelini on julkaisun ensimmäinen teksti sivulla 12.)
 
-### Akateeminen kirjoittaminen
+## Akateeminen kirjoittaminen
 **Language, Institutions, and Belonging (ote)**  
 Näyte akateemisesta englanninkielisestä kirjoittamisesta: kielellinen tarkkuus, muodollinen rekisteri ja selkeä analyyttinen rakenne.
 
